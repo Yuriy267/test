@@ -1,0 +1,34 @@
+ { "friendData": [{ "id": 1, 
+  "followed":false, 
+  "Name": "Vasya Vasin", 
+  "status":"I good jobber", 
+  "location": {"city":"new-york", "country":"Usa"} },
+          
+  { "id": 2, 
+  "followed":false, 
+  "Name": "Petya Petrov", 
+  "status":"I bad jobber", 
+  "location": {"city":"Kopengagen", "country":"Dania"} },
+          
+  { "id": 3, 
+  "followed":true, 
+  "Name": "Sasha Sashov", 
+  "status":"I good drink", 
+  "location": {"city":"Krakow", "country":"Poland"} },
+          
+  { "id": 4, 
+  "followed":false, 
+  "Name": "Masha Masanova",
+   "status":"I good boxer", 
+  "location": {"city":"PARIS", "country":"France"} },
+          
+  { "id": 5, 
+  "followed":true, 
+  "Name": "Dasha Dashkova", 
+  "status":"I good Tobber", 
+  "location": {"city":"London", "country":"England"} },
+          
+  { "id": 6, "followed":false,
+   "Name": "Kasha Malasha",
+   "status":"I good Lobber", 
+  "location": {"city":"Gastuk", "country":"India"} }]}
